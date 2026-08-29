@@ -11,7 +11,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Unzip project
-        run: unzip -o Nova_corrige_v9.zip -d .
+        run: unzip -o Nova_corrige_v10.zip -d .
 
       - name: Set up JDK 17
         uses: actions/setup-java@v4
